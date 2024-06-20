@@ -83,7 +83,7 @@ const LoginPage = () => {
                 Sign in
               </h3>
               <p className="">
-                Don't have an account?{" "}
+                Don&apos;t have an account?{" "}
                 <a
                   href="javascript:void(0)"
                   className="font-medium text-indigo-600 hover:text-indigo-500"
